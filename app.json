@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Gatito",
+    "slug": "gatito",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/iconn.png",
+    "splash": {
+      "image": "./assets/splashh.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#A050BE"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
